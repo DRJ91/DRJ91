@@ -2,6 +2,12 @@
 ## Dipak here
 
 *I am currentyly studying Web Development from CoGrammar(HyperionDev).*
+Currently I am learning
+* HTML
+* CSS
+* JavaScript
+* Git
+* Github
 
 
 
