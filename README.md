@@ -11,7 +11,7 @@ Currently I am learning
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://foundations.projectpythia.org/_images/GitHub-logo.png">
+ <img alt="YOUR-ALT-TEXT" src="https://images.app.goo.gl/x2URpB7LhHDq2GYH9">
 </picture>
 
 
