@@ -8,7 +8,7 @@ Currently I am learning
 * JavaScript
 * Git
 * Github
- <img src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png">
+ <img alt="git_hum_img" src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png">
 
 <!--
 **DRJ91/DRJ91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
