@@ -8,12 +8,10 @@ Currently I am learning
 * JavaScript
 * Git
 * Github
- <img src="https://images.app.goo.gl/x2URpB7LhHDq2GYH9">
+ <img src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png">
 
 <!--
 **DRJ91/DRJ91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-This is my first README file.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
